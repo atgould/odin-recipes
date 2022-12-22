@@ -1,0 +1,45 @@
+.index-body{
+font-family:'Times New Roman', Times, serif;
+background-color: rgb(94, 56, 56);
+text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 100px;
+}
+
+h2{
+    color: green;
+    font-size: 75px;
+}
+
+h3{
+    color: red;
+    font-size: 75px;
+}
+
+h4{
+    color: yellow;
+    font-size: 75px;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    color: black;
+    font-size: 50px;
+    background-color: powderblue;
+    text-align: center;
+}
+
+ol{
+    color: peachpuff;
+    font-size: 50px;
+}
+.pbj-body{
+    background-color: black;
+    text-align: center;
+}
